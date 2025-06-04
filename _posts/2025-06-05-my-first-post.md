@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "覚え書き始めました(そろそろ冷やし中華時期か・・・)"
+title: "覚え書き始めました(そろそろ冷やし中華の時期か・・・)"
 date: 2025-06-05 00:00:00 +0900
 ---
 
@@ -35,8 +35,13 @@ JavaSDKを変えただけではまだビルドに失敗するので、
 メッセージを元にapi-level=21を24に変更(ndk-18-api-level-24.config.py採用)  
 build_java_shared_aar.pyのparser.add_argument('--android_min_sdk', default="21")も  
 parser.add_argument('--android_min_sdk', default="24")に変更(引数で渡すなら変更不要)  
+parser.add_argument('--ndk_location', default="")にndkパス追加
 
 上記を修正して、再度ビルドで成功しました。
 
 Windows環境でビルドしていた時は、python3ではなくCMakeでビルドしていました。  
 これが良くなかったようです。(AI君あ〇～なに〇じてたのに～)
+
+追記
+Windows環境でも途中までビルドできたが、AARビルド(build_java_shared_aar.py)で、  
+Linuxでは出なかったエラーが発生してビルドが失敗しました。
