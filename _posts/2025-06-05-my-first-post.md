@@ -2,6 +2,7 @@
 layout: post
 title: "覚え書き始めました(そろそろ冷やし中華時期か・・・)"
 date: 2025-06-05 00:00:00 +0900
+---
 
 flutter + androidでOpenCVを使用してみたく、実行環境構築で困惑したので覚え書きとして残しておきます。
 
@@ -37,4 +38,3 @@ parser.add_argument('--android_min_sdk', default="24")に変更(引数で渡す�
 
 Windows環境でビルドしていた時は、python3ではなくCMakeでビルドしていました。
 これが良くなかったようです。(AI君あ〇～なに〇じてたのに～)
----
