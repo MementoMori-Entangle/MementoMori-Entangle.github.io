@@ -1,4 +1,4 @@
 ---
 layout: home
-title "My note"
+title: "My note"
 ---
