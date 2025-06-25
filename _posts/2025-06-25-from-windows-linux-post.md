@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Windows10PCの再利用"
-date: 2025-06-25 23:00:00 + 4:00
+date: 2025-06-25 14:00:00 +0900
 ---
 
 引越し前にWindows10PC(2012年製)をLinuxPCにして再利用することにしました。  
