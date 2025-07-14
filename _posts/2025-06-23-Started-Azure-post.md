@@ -18,8 +18,8 @@ Azureが何なのかから始めることにしました。
 一先ず、基本コースを学習してその時点でサービス公開までいけるようなら先に公開しよう。
 
 学習中  
-モジュール Azure/開発者/初級 
-Deploy a Spring Boot app to Azure Container Apps
+モジュール Azure/開発者/初級  
+Deploy a Spring Boot app to Azure Container Apps  
 36％ (ここから先、クレカ登録必須?)
 
 学習完了  
