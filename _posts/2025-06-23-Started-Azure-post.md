@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Azure学習中 (更新6/25)"
+title: "Azure学習中 (更新7/14)"
 date: 2025-06-23 00:00:00 +0900
 ---
 
@@ -18,9 +18,9 @@ Azureが何なのかから始めることにしました。
 一先ず、基本コースを学習してその時点でサービス公開までいけるようなら先に公開しよう。
 
 学習中  
-ラーニング パス　Azure/管理者/初級  
-Microsoft Azure の基礎: Azure の管理とガバナンスについての説明  
-38%
+モジュール Azure/開発者/初級 
+Deploy a Spring Boot app to Azure Container Apps
+36％ (ここから先、クレカ登録必須?)
 
 学習完了  
 ラーニング パス　Azure/管理者/初級  
@@ -28,3 +28,7 @@ Microsoft Azure の基礎: Azure のアーキテクチャとサービスにつ�
 
 ラーニング パス　Azure/管理者/初級  
 Microsoft Azure の基礎: クラウドの概念について説明する
+
+ラーニング パス　Azure/管理者/初級  
+Microsoft Azure の基礎: Azure の管理とガバナンスについての説明
+
