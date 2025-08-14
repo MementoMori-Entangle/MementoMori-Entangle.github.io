@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "next.js学習"
-date: 2025-08-13 10:00:00 +0900
+date: 2025-08-13 12:00:00 +0900
 ---
 
 https://nextjs.org/learn/ で  
